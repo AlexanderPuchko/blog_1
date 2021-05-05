@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab1" />
+    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
@@ -180,7 +186,7 @@
       <workItem from="1620222062639" duration="949000" />
       <workItem from="1620231763404" duration="232000" />
       <workItem from="1620232045502" duration="40000" />
-      <workItem from="1620232087407" duration="910000" />
+      <workItem from="1620232087407" duration="2056000" />
     </task>
     <servers />
   </component>
