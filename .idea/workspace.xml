@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab1">
+    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab2">
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/posts/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,12 +187,24 @@
       <workItem from="1620222062639" duration="949000" />
       <workItem from="1620231763404" duration="232000" />
       <workItem from="1620232045502" duration="40000" />
-      <workItem from="1620232087407" duration="2056000" />
+      <workItem from="1620232087407" duration="2708000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab2">
+      <created>1620234451535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620234451535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
