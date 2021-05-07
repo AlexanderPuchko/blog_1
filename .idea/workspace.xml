@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab7">
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/BlogPostUpdateRequest.php" afterDir="false" />
+    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab8">
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/PostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/BlogPost.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Repositories/BlogPostRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Repositories/BlogPostRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog/admin/posts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/admin/posts/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +199,7 @@
       <workItem from="1620231763404" duration="232000" />
       <workItem from="1620232045502" duration="40000" />
       <workItem from="1620232087407" duration="16568000" />
-      <workItem from="1620386386442" duration="2193000" />
+      <workItem from="1620386386442" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="Lab2">
       <created>1620234451535</created>
@@ -247,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620388329132</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lab8">
+      <created>1620388821546</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620388821546</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +307,8 @@
     <MESSAGE value="Lab5" />
     <MESSAGE value="Lab6" />
     <MESSAGE value="Lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab7" />
+    <MESSAGE value="Lab8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
