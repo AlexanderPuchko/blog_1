@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab9=10">
+    <list default="true" id="5bd928d3-6f82-4903-ba83-37f9a3a4a1fe" name="Default Changelist" comment="Lab11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Blog/Admin/PostController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +201,7 @@
       <workItem from="1620232045502" duration="40000" />
       <workItem from="1620232087407" duration="16568000" />
       <workItem from="1620386386442" duration="4408000" />
+      <workItem from="1620563445669" duration="3828000" />
     </task>
     <task id="LOCAL-00001" summary="Lab2">
       <created>1620234451535</created>
@@ -265,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620389611674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lab11">
+      <created>1620563667004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620563667004</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +333,8 @@
     <MESSAGE value="Lab8" />
     <MESSAGE value="Lab9" />
     <MESSAGE value="Lab9=10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab9=10" />
+    <MESSAGE value="Lab11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab11" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
